@@ -1,0 +1,13 @@
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.deps.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.dev.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.dll
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfoInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfo.cs
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.dll
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.genruntimeconfig.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csprojAssemblyReference.cache
