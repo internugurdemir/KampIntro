@@ -1,0 +1,7 @@
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\OOP1\bin\Debug\OOP1.exe.config
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\OOP1\bin\Debug\OOP1.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\OOP1\bin\Debug\OOP1.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\OOP1\obj\Debug\OOP1.csprojAssemblyReference.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\OOP1\obj\Debug\OOP1.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\OOP1\obj\Debug\OOP1.pdb
