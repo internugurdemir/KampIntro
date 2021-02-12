@@ -1,0 +1,13 @@
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
