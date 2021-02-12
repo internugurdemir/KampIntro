@@ -1,0 +1,13 @@
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.deps.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.dev.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.dll
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csprojAssemblyReference.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfoInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfo.cs
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csproj.CoreCompileInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.dll
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.genruntimeconfig.cache
