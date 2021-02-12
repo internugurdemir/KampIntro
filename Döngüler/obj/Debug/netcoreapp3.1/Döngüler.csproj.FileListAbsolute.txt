@@ -1,0 +1,13 @@
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\bin\Debug\netcoreapp3.1\Döngüler.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\bin\Debug\netcoreapp3.1\Döngüler.deps.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\bin\Debug\netcoreapp3.1\Döngüler.runtimeconfig.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\bin\Debug\netcoreapp3.1\Döngüler.runtimeconfig.dev.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\bin\Debug\netcoreapp3.1\Döngüler.dll
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\bin\Debug\netcoreapp3.1\Döngüler.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\obj\Debug\netcoreapp3.1\Döngüler.csprojAssemblyReference.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\obj\Debug\netcoreapp3.1\Döngüler.AssemblyInfoInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\obj\Debug\netcoreapp3.1\Döngüler.AssemblyInfo.cs
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\obj\Debug\netcoreapp3.1\Döngüler.csproj.CoreCompileInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\obj\Debug\netcoreapp3.1\Döngüler.dll
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\obj\Debug\netcoreapp3.1\Döngüler.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Döngüler\obj\Debug\netcoreapp3.1\Döngüler.genruntimeconfig.cache

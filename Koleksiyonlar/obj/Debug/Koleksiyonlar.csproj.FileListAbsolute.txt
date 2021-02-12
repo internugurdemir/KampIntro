@@ -1,0 +1,7 @@
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Koleksiyonlar\obj\Debug\Koleksiyonlar.csprojAssemblyReference.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb

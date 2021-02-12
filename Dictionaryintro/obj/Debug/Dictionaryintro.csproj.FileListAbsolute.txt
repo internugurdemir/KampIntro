@@ -1,0 +1,6 @@
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Dictionaryintro\bin\Debug\Dictionaryintro.exe.config
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Dictionaryintro\bin\Debug\Dictionaryintro.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Dictionaryintro\bin\Debug\Dictionaryintro.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Dictionaryintro\obj\Debug\Dictionaryintro.csproj.CoreCompileInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Dictionaryintro\obj\Debug\Dictionaryintro.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\Dictionaryintro\obj\Debug\Dictionaryintro.pdb

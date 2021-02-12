@@ -1,0 +1,7 @@
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\GenericsIntro\bin\Debug\GenericsIntro.exe.config
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\GenericsIntro\bin\Debug\GenericsIntro.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\GenericsIntro\bin\Debug\GenericsIntro.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\GenericsIntro\obj\Debug\GenericsIntro.csprojAssemblyReference.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\GenericsIntro\obj\Debug\GenericsIntro.csproj.CoreCompileInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\GenericsIntro\obj\Debug\GenericsIntro.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\GenericsIntro\obj\Debug\GenericsIntro.pdb
