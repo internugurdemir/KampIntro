@@ -1,0 +1,12 @@
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.AssemblyInfoInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.AssemblyInfo.cs
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.csproj.CoreCompileInputs.cache
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.exe
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.deps.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.runtimeconfig.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.runtimeconfig.dev.json
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.dll
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.dll
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.pdb
+D:\Ders\Bilge_Adam_Boost_Yazılım\KampIntro\VisualStudio C#\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.genruntimeconfig.cache
