@@ -12,6 +12,7 @@ namespace ReCapProject.DataAccess.Abstract
         void Delete(Car car);
         void Update(Car car);
         List<Car> GetAllByBrandID(int brandID);
+        List<Car> GetCarsByColorId(int colorID);
 
     }
 }
