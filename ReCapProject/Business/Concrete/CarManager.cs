@@ -35,6 +35,11 @@ namespace Business.Concrete
             return _carDal.GetAll();
         }
 
+        public List<CarDetailDto> GetCarDetails()
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Car> GetCarsByBrandId(int brandID)
         {
             return _carDal.GetAllByBrandID(brandID);
@@ -44,6 +49,11 @@ namespace Business.Concrete
         {
             return _carDal.GetCarsByColorId(colorID);
 
+        }
+
+        public List<Car> GetCarsByDailyPrice(int dailyPrice)
+        {
+            throw new NotImplementedException();
         }
 
         public void Update(Car car)
